@@ -1,2 +1,2 @@
 # Golang crud Broiler
-## Helping starter learn GO in awesome way
+## Building rest Apis with Golang
